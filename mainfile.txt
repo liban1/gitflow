@@ -1,2 +1,3 @@
 This is my mainfile also faces trouble
- this file is modifed by developer 
+ this file is modifed by developer
+this is also changed to feature1 
