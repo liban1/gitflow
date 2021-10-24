@@ -1,6 +1,8 @@
 This is my mainfile also faces trouble
+<<<<<<< HEAD
  this file is modifed by developer
 this is also changed to feature1 
+=======
  this file is modifed by developer 
 this is change from feature2 be care full
-
+>>>>>>> feature2
